@@ -1473,7 +1473,7 @@ footer {
   text-align: center;
   color: #fff;
   padding: 25px 0;
-  background: #0062d3;
+  background: #5c0f0f;
 }
 
 footer .copyright {
@@ -1499,17 +1499,18 @@ footer .credits a {
 .footer .ico-circle {
   height: 40px;
   width: 40px;
+  color: #fff;
   font-size: 1.3rem;
   border-radius: 50%;
   line-height: 1.7;
   margin: 0 25px 0 0;
-  box-shadow: 0 0 0 3px #5c0f0f;
+  box-shadow: 0 0 0 3px #ffffff;
   transition: all 500ms ease;
 }
 
 .footer .ico-circle:hover {
-  background-color: #5c0f0f;
-  color: #fff;
+  background-color: #ffffff;
+  color: #5c0f0f;
   box-shadow: 0 0 0 3px #cde1f8;
   transition: all 500ms ease;
 }
